@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/tonykung06/js-modules#readme",
   "dependencies": {
-    "http-server": "^0.10.0"
+    "http-server": "^0.10.0",
+    "requirejs": "^2.2.0",
+    "systemjs": "^0.19.27"
   }
 }
